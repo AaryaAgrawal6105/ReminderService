@@ -13,10 +13,10 @@ const setUpandStartServer = ()=>{
     
     })
     sendBasicEmail(
-        'supportadmin@gmail.com',
-        'hucaimth062005@gmail.com',
-        'This a test mail',
-        'Hi hope you are doing well and getting all the support you need'
+        '<rs45> vedikaBopche2321@gmail.com',
+        'vkbhamare26@gail.com',
+        'Casual',
+        'Hi, Vivek hope you are doing well and getting all the support you need'
     )
  
 
